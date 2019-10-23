@@ -1,2 +1,11 @@
 body{
   background-color: #fea234;}
+.content{
+  background-color: #fea;
+  border: 10px dashed blue;
+  margin: 20px;
+  padding: 15px 30px;
+  height: 200px;
+  width:200px;
+  overflow: scroll;
+}
