@@ -1,5 +1,6 @@
 body{
   background-color: #fea234;}
+
 .content{
   background-color: #fea;
   border: 10px dashed blue;
@@ -8,4 +9,12 @@ body{
   height: 200px;
   width:200px;
   overflow: scroll;
+}
+
+a:link{color: red;}
+
+a:visisted{color: blue;}
+
+li:hover{
+  font-size: 25px; color: #fea
 }
