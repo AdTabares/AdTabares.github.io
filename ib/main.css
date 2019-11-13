@@ -41,9 +41,3 @@ h1 {
 p {
   margin-bottom: 8rem;
 }
-body {
-  font: 900 40px system-ui, -apple-system, sans-serif;
-  letter-spacing: -1px;
-  margin: 1rem;
-  min-height: 200vh;
-}
