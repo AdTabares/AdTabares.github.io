@@ -16,15 +16,11 @@ while(beginning > 0)
      beginning--;
    }
 function myLoop(){
-var end = document.getElementById("end").value;
-for(var i = 0; i <= end; i++)
+var start = document.getElementById("start").value;
+  var end = document.getElementById("end").value;
+for(var i = start; i <= end; i++)
   {
     document.write('<p>' + i + '</p>');
   }
 }
-document.getElementById("start").value;
-for(var i = "start"; i <= end; i++)
-  {
-    document.write('<p>' + i + '</p>');
-  }
 
